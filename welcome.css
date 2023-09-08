@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(242, 247, 247);
+}
+
+h1{
+    color: rgb(23, 23, 24);
+    text-align: center;
+}
+
+.button{
+    background-color: aqua;
+}
